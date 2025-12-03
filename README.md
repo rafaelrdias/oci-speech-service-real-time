@@ -1,4 +1,3 @@
-````markdown
 # OCI Realtime Speech (Whisper) – Exemplo em Python
 
 Este repositório contém um exemplo de aplicação em Python que captura áudio do microfone usando **PyAudio** e envia o stream em tempo real para o serviço **Oracle Cloud Infrastructure (OCI) Speech – Realtime** utilizando o modelo **WHISPER** para transcrição.
