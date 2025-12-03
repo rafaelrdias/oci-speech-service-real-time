@@ -53,7 +53,6 @@ O **Miniconda** é uma distribuição mínima da Anaconda – ele instala apenas
 4. Após a instalação, abra o **Anaconda Prompt** ou o **PowerShell** e teste:
    ```bash
    conda --version
-````
 
 Se o comando funcionar, o Miniconda está instalado corretamente.
 
